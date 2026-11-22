@@ -3,8 +3,3 @@ venv/
 __pycache__/
 *.py[cod]
 .streamlit/secrets.toml
-
-
-
-git config --global user.email "tejaswinip917@gmail.com"
-git config --global user.name "tejaswinip917-commits"
